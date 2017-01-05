@@ -450,7 +450,7 @@ html, body, .main {
 .slide3 dl dt span:nth-child(1){
     width: 38%;
     display: block;
-    margin: .3rem auto;
+    margin: .2rem auto;
     font-size: .4rem;
     color: black;
     background: rgb(46, 203, 190);
