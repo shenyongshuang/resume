@@ -442,7 +442,7 @@ html, body, .main {
 .slide3 dl:nth-child(3){
     width: 100%;
     position: absolute;
-    top: 66%;
+    top: 64%;
     font-size: .35rem;
     color: #fff;
 }
@@ -458,8 +458,8 @@ html, body, .main {
     margin-top: .2rem;
     display: block;
     width: 33%;
-    height: .6rem;
-    line-height: .6rem;
+    height: .7rem;
+    line-height: .7rem;
     border-radius: 2rem;
     background: black;
     text-align: center;
