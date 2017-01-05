@@ -443,14 +443,14 @@ html, body, .main {
     width: 100%;
     height: 4rem;
     position: absolute;
-    top: 64%;
+    top: 69%;
     font-size: .35rem;
     color: #fff;
 }
 .slide3 dl dt span:nth-child(1){
     width: 38%;
     display: block;
-    margin: 0 auto;
+    margin: .3rem auto;
     font-size: .4rem;
     color: black;
     background: rgb(46, 203, 190);
@@ -459,8 +459,8 @@ html, body, .main {
     margin-top: .2rem;
     display: block;
     width: 33%;
-    height: .7rem;
-    line-height: .7rem;
+    height: .5rem;
+    line-height: .5rem;
     border-radius: 2rem;
     background: black;
     text-align: center;
