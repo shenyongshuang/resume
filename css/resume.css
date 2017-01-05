@@ -443,14 +443,14 @@ html, body, .main {
     width: 100%;
     height: 4rem;
     position: absolute;
-    top: 60%;
+    top: 62%;
     font-size: .35rem;
     color: #fff;
 }
 .slide3 dl dt span:nth-child(1){
     width: 38%;
     display: block;
-    margin: .2rem auto;
+    margin: .3rem auto;
     font-size: .4rem;
     color: black;
     background: rgb(46, 203, 190);
