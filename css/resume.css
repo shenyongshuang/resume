@@ -370,6 +370,7 @@ html, body, .main {
     position: absolute;
     top: 30%;
     left: 15%;
+    z-index: 2;
 }
 .slide3 ol li{
     width: 100%;
@@ -1034,7 +1035,7 @@ html, body, .main {
     -webkit-animation: bounceIn 1s .6s;
     -o-animation: bounceIn 1s .6s;
     animation: bounceIn 1s .6s;
-    transition: 1s .1s;
+    transition: 1s .6s;
 }
 #page5 .btn{
     -webkit-animation: fadeInUp 1s .5s infinite both;
