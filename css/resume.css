@@ -368,7 +368,7 @@ html, body, .main {
 .slide3 ol{
     width: 100%;
     position: absolute;
-    top: 3rem;
+    top: 25%;
     left: 15%;
     z-index: 2;
 }
