@@ -225,7 +225,7 @@ html, body, .main {
 }
 .slide2 div span{
     display: block;
-    line-height: 30px;
+    line-height: .5rem;
 }
 .slide2 ul li span:nth-child(1){
     font-size: .4rem;
@@ -348,7 +348,7 @@ html, body, .main {
 }
 .slide3 div span{
     display: block;
-    line-height: .4rem;
+    line-height: .5rem;
 }
 .slide3 ul li span:nth-child(1){
     font-size: .4rem;
@@ -442,7 +442,7 @@ html, body, .main {
 .slide3 dl:nth-child(3){
     width: 100%;
     position: absolute;
-    top: 7.2rem;
+    top: 62%;
     font-size: .35rem;
     color: #fff;
 }
