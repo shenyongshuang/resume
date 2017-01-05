@@ -442,7 +442,7 @@ html, body, .main {
 .slide3 dl:nth-child(3){
     width: 100%;
     position: absolute;
-    top: 68%;
+    top: 64%;
     font-size: .35rem;
     color: #fff;
 }
