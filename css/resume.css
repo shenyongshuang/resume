@@ -455,11 +455,11 @@ html, body, .main {
     background: rgb(46, 203, 190);
 }
 .slide3 dl span{
-    margin-top: .1rem;
+    margin-top: .2rem;
     display: block;
     width: 33%;
-    height: .7rem;
-    line-height: .7rem;
+    height: .6rem;
+    line-height: .6rem;
     border-radius: 2rem;
     background: black;
     text-align: center;
