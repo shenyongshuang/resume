@@ -47,7 +47,7 @@ html, body, .main {
     width: 0.44rem;
     height: 0.34rem;
     position: absolute;
-    bottom: 10%;
+    bottom: 5%;
     left: 47%;
     opacity: 0;
 }
@@ -70,7 +70,7 @@ html, body, .main {
     border-bottom-color: black;
     position: absolute;
     left: 23%;
-    bottom: -12%;
+    bottom: -15%;
     z-index: 2;
     opacity: .9;
 }
