@@ -1035,20 +1035,20 @@ html, body, .main {
 #page6 ol li{
     opacity: 1;
     filter:alpha(opacity = 100);
-    transform: translateX(0);
     transition: 1s .5s;
+    transform: translateX(0);
 }
 #page6 img:nth-child(3) {
     opacity: 1;
     filter:alpha(opacity = 100);
-    animation: bounceInUp 2s ;
     transition: 1s;
+    animation: bounceInUp 2s ;
 }
 #page6 div:nth-child(4){
     opacity: 1;
     filter:alpha(opacity = 100);
-    transform: translate(0) rotate(0deg);
     transition: 1s 1s;
+    transform: translate(0) rotate(0deg);
 }
 #page6 .btn{
     animation: fadeInUp 1s .5s infinite both;
