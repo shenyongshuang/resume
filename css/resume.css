@@ -247,7 +247,7 @@ html, body, .main {
     color: #fff;
     position: absolute;
     left: 5%;
-    top: 30%;
+    top: 32%;
     opacity: 0;
     transform: scale(.5);
 }
@@ -256,7 +256,7 @@ html, body, .main {
     height: 2.8rem;
     background: rgb(46, 203, 190);
     position: absolute;
-    top: 31%;
+    top: 33%;
     right: 1%;
     transform: scale(.5);
 }
@@ -269,7 +269,7 @@ html, body, .main {
 }
 .slide2 div:nth-child(4){
     position: absolute;
-    top: 60%;
+    top: 62%;
     left: 5%;
 }
 .slide2 div h3:nth-child(1){
@@ -565,15 +565,13 @@ html, body, .main {
     width: 30%;
     height: 2rem;
     float: left;
-    text-align: center;
-    margin-right: 8%;
+    margin-left: 3%;
     opacity: 0;
 }
 .slide4 ol li:nth-child(2n+2){
     width: 62%;
     height: 2rem;
     float: right;
-    text-align: center;
     opacity: 0;
     transform: translateX(1rem);
 }
